@@ -78,7 +78,7 @@ npm start
 
 ---
 
-### 🤝 Como contribuir
+## 🤝 Como contribuir
 
 Este projeto é uma jornada colaborativa. Quer ajudar a desvendar novos caminhos? Abra uma issue, proponha um pull request, ou só venha conversar!
 
