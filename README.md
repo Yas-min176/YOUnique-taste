@@ -60,3 +60,28 @@ Navegue até cada serviço para compilar e rodar:
 cd user-service
 mvn clean install
 mvn spring-boot:run
+```
+
+Para a IA(TbD):
+```bash
+cd ai-service
+pip install -r requirements.txt
+python main.py
+```
+
+Front-End(TbD):
+```bash
+cd frontend
+npm install
+npm start
+```
+
+---
+
+### 🤝 Como contribuir
+
+Este projeto é uma jornada colaborativa. Quer ajudar a desvendar novos caminhos? Abra uma issue, proponha um pull request, ou só venha conversar!
+
+---
+
+✨ Descubra o que está além do comum. YOUnique Taste vai te guiar. ✨
